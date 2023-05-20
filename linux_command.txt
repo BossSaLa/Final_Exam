@@ -1,0 +1,6 @@
+mkdir Final_Exam
+cd Final_Exam
+sudo nano ROBOT_CLASS.txt
+git remote add origin https://github.com/robot-class/final.git
+git switch -c robot-dev
+
